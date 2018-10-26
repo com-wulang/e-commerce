@@ -7,7 +7,7 @@ spring:
   # jdbc_config datasource
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://47.106.129.25:3306/db_chenqiang?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=GMT
+    url: jdbc:mysql://47.106.129.25:3306/e-commerce?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=GMT
     username: root
     password: abcd1234
     type: com.zaxxer.hikari.HikariDataSource
